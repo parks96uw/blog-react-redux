@@ -5,9 +5,9 @@ import PostList from './PostList';
 
 class App extends React.Component {
     render() {
-        return(
+        return (
             <div className="ui container">
-                <PostList/>
+                <PostList />
             </div>
         )
     }
